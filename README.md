@@ -1,4 +1,1 @@
-MTCbusRoutes
-============
-
-List all the  combination of buses available from  one place to other
+This is an Android Application. This application will use GPS and Mobile Data.
